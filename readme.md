@@ -1,7 +1,7 @@
 # Project SNMP
 ## About
 
-This project demonstrates the abilities of Simple Network Management Protocol (SNMP).
+This project demonstrates the abilities of Simple Network Management Protocol (SNMP) to auto discover entities in network.
 
 ## Entities in SNMP
 #### SNMP Manager
